@@ -58,7 +58,7 @@ I have a deep fascination with **Object Detection** and **Image Classification**
 
 ## 🎯 Featured Projects
 
-### 👁️ [Image classification model](https://github.com/Ayush2049/object-detection-model)
+### 👁️ [Image classification model](https://github.com/Ayush2049/FRUITS-AND-VEGETABLE-CLASSIFIER)
 Advanced object detection using SDMOBILENET3 and TensorFLow
 - **Tech:** Python, TensorFlow, OpenCV, SDMOBILENET3
 - **Features:** fruits and vegetable classifier,fast classification,Trained multiple fruits and vegetables
@@ -70,7 +70,7 @@ Advanced object detection using SDMOBILENET3 and TensorFLow
 - **Features:** Real-time detection, Multi-object tracking, Video -detection
 - **Use Cases:** Security surveillance, Autonomous systems, Smart retail
 
-### 💼 [AI-Powered Job Portal](https://github.com/Ayush2049/ai-job-portal)
+### 💼 [AI-Powered Job Portal](https://github.com/Ayush2049/JOBPORTAL-WITH-AI-RESUME-MATCHING)
 Intelligent job matching platform with AI resume analysis
 - **Tech:** Node.js, Typescipt, Next.js, NLP, MongoDB,React
 - **AI Features:** Resume-Job matching, Skill extraction, Automated screening
@@ -82,13 +82,13 @@ Machine Learning model with Flask API for predicting mobile phone price ranges
 - **Accuracy:** ~95%
 - **Features:** REST API, Real-time predictions, CSV export
 
-### 🐄 [Animal Disease Prediction](https://github.com/Ayush2049/animal-disease-prediction)
+### 🐄 [Cattle Disease Prediction](https://github.com/Ayush2049/CATTLES-DISEASE-PREDICTOR)
 ML-powered livestock disease diagnosis system
 - **Tech:** Python, scikit-learn, Pandas, joblib
 - **Impact:** Helping farmers and veterinarians with early disease detection
 - **Features:** Multi-symptom analysis, Confidence scoring
 
-### 📝 [Quiz MANIA](https://github.com/Ayush2049/quiz-master)
+### 📝 [Quiz MANIA](https://github.com/Ayush2049/THE-ULTIMATE-QUIZ-WEB-APP)
 Interactive quiz platform built to solve exam preparation challenges
 - **Tech:** Node.js, Express, MongoDB, JavaScript
 - **Why:** Built during my own exam prep struggles
