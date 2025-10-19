@@ -58,6 +58,18 @@ I have a deep fascination with **Object Detection** and **Image Classification**
 
 ## 🎯 Featured Projects
 
+### 👁️ [Real-Time Object Detection System](https://github.com/Ayush2049/object-detection-model)
+Advanced object detection using YOLO and TensorFlow
+- **Tech:** Python, TensorFlow, OpenCV, YOLO
+- **Features:** Real-time detection, Multi-object tracking, Custom model training
+- **Use Cases:** Security surveillance, Autonomous systems, Smart retail
+
+### 💼 [AI-Powered Job Portal](https://github.com/Ayush2049/ai-job-portal)
+Intelligent job matching platform with AI resume analysis
+- **Tech:** Node.js, Python, TensorFlow, NLP, MongoDB
+- **AI Features:** Resume-Job matching, Skill extraction, Automated screening
+- **Impact:** Connecting job seekers with perfect opportunities using AI
+
 ### 📱 [Mobile Price Prediction](https://github.com/Ayush2049/MOBILE-PRICE-PREDICTION)
 Machine Learning model with Flask API for predicting mobile phone price ranges
 - **Tech:** Python, Flask, scikit-learn, Random Forest
@@ -70,7 +82,7 @@ ML-powered livestock disease diagnosis system
 - **Impact:** Helping farmers and veterinarians with early disease detection
 - **Features:** Multi-symptom analysis, Confidence scoring
 
-### 📝 [Quiz Master](https://github.com/Ayush2049/quiz-master)
+### 📝 [Quiz MANIA](https://github.com/Ayush2049/quiz-master)
 Interactive quiz platform built to solve exam preparation challenges
 - **Tech:** Node.js, Express, MongoDB, JavaScript
 - **Why:** Built during my own exam prep struggles
