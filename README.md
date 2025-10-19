@@ -76,7 +76,7 @@ Intelligent job matching platform with AI resume analysis
 - **AI Features:** Resume-Job matching, Skill extraction, Automated screening
 - **Impact:** Connecting job seekers with perfect opportunities using AI
 
-### 📱 [Mobile Price Prediction](https://github.com/Ayush2049/[MOBILE-PRICE-PREDICTION](https://github.com/Ayush2049/MOBILE-PHONES-PRICE-PREDICTOR))
+### 📱 [Mobile Price Prediction](https://github.com/Ayush2049/MOBILE-PHONES-PRICE-PREDICTOR)
 Machine Learning model with Flask API for predicting mobile phone price ranges
 - **Tech:** Python, Flask, scikit-learn, Random Forest
 - **Accuracy:** ~95%
