@@ -64,7 +64,7 @@ Advanced object detection using SDMOBILENET3 and TensorFLow
 - **Features:** fruits and vegetable classifier,fast classification,Trained multiple fruits and vegetables
 - **Use Cases:** Agricultural applications, Autonomous systems, Smart retail
 
-### 👁️ [Real-Time Object Detection System](https://github.com/Ayush2049/object-detection-model)
+### 👁️ [Real-Time Object Detection System](https://github.com/Ayush2049/OBJECT-DETECTION--THROUGH-IMAGE-VIDEO-AND-WEBCAM)
 Advanced object detection using SDMOBILENET3 and TensorFLow
 - **Tech:** Python, TensorFlow, OpenCV, SDMOBILENET3
 - **Features:** Real-time detection, Multi-object tracking, Video -detection
@@ -76,7 +76,7 @@ Intelligent job matching platform with AI resume analysis
 - **AI Features:** Resume-Job matching, Skill extraction, Automated screening
 - **Impact:** Connecting job seekers with perfect opportunities using AI
 
-### 📱 [Mobile Price Prediction](https://github.com/Ayush2049/MOBILE-PRICE-PREDICTION)
+### 📱 [Mobile Price Prediction](https://github.com/Ayush2049/[MOBILE-PRICE-PREDICTION](https://github.com/Ayush2049/MOBILE-PHONES-PRICE-PREDICTOR))
 Machine Learning model with Flask API for predicting mobile phone price ranges
 - **Tech:** Python, Flask, scikit-learn, Random Forest
 - **Accuracy:** ~95%
