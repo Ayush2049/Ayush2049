@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=CODE+IT+DOWN;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,12 +13,16 @@
 I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** who loves building solutions to real-world problems. My journey in tech started with a simple goal: to make life easier for students and developers through innovative web applications and intelligent systems.
 
 - 🔭 Currently working on **ML-powered applications** and **interactive web platforms**
-- 🌱 Learning **Advanced Machine Learning**, **Cloud Computing**, and **System Design**
+- 🌱 Learning **Machine Learning**
 - 💡 Passionate about solving problems that matter to students and developers
 - 🎯 Goal: Build impactful projects that help people learn and grow
-- ⚡ Fun fact: I turned my exam prep struggles into a full-fledged quiz platform!
+---
+### 🤖 My Passion for Computer Vision
+
+I have a deep fascination with **Object Detection** and **Image Classification** models. There's something incredibly exciting about teaching machines to "see" and interpret the visual world! Whether it's detecting objects in real-time or classifying images with precision, I love diving into computer vision projects. In my experience, **TensorFlow** and **OpenCV** are the ultimate powerhouses for machine learning and computer vision tasks. TensorFlow's flexibility in building neural networks combined with OpenCV's robust image processing capabilities make them the perfect duo for creating intelligent visual systems. From building custom object detectors to fine-tuning image classifiers, these tools have been my go-to for bringing AI vision to life!
 
 ---
+
 
 ## 🛠️ Tech Stack
 
