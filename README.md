@@ -60,7 +60,7 @@ I have a deep fascination with **Object Detection** and **Image Classification**
 ## 🎯 Featured Projects
 
 ### 👁️ [Image classification model](https://github.com/Ayush2049/FRUITS-AND-VEGETABLE-CLASSIFIER)
-Advanced object detection using SDMOBILENET3 and TensorFLow
+Advanced object detection using TensorFlow Keras model
 - **Tech:** Python, TensorFlow, OpenCV, SDMOBILENET3
 - **Features:** fruits and vegetable classifier,fast classification,Trained multiple fruits and vegetables
 - **Use Cases:** Agricultural applications, Autonomous systems, Smart retail
