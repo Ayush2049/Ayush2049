@@ -66,8 +66,8 @@ Advanced object detection using TensorFlow Keras model
 - **Use Cases:** Agricultural applications, Autonomous systems, Smart retail
 
 ### 👁️ [Real-Time Object Detection System](https://github.com/Ayush2049/OBJECT-DETECTION--THROUGH-IMAGE-VIDEO-AND-WEBCAM)
-Advanced object detection using SDMOBILENET3 and TensorFLow
-- **Tech:** Python, TensorFlow, OpenCV, SDMOBILENET3
+Advanced object detection using SSD-MOBILENETV3, SSD-MobilenetV3 ,TensorFLow, and opencv
+- **Tech:** Python, TensorFlow, OpenCV, SSD-DMOBILENETV3
 - **Features:** Real-time detection, Multi-object tracking, Video -detection
 - **Use Cases:** Security surveillance, Autonomous systems, Smart retail
 
