@@ -14,7 +14,7 @@
 I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** who loves building solutions to real-world problems. My journey in tech started with a simple goal: to make life easier for students and developers through innovative web applications and intelligent systems.
 
 
-
+---
 
 
 -⚙️ Experienced in developing **backend-heavy** projects focused on clean architecture and scalability
