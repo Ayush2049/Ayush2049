@@ -1,9 +1,9 @@
 # Hi there, I'm Ayush Sharma! 👋
+# Hi there, I'm Ayush Sharma! 👋
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=CODE+IT+DOWN)
-
 
 </div>
 
@@ -11,21 +11,29 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** who loves building solutions to real-world problems. My journey in tech started with a simple goal: to make life easier for students and developers through innovative web applications and intelligent systems.
-
+I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** who loves building solutions to real-world problems.  
+My journey in tech started with a simple goal: to make life easier for students and developers through innovative web applications and intelligent systems.
 
 ---
 
+- ⚙️ Experienced in developing **backend-heavy** projects focused on clean architecture and scalability  
+- 🔭 Currently working on **ML-powered/Deep learning applications** and **interactive web platforms**  
+- 🌱 Learning and experimenting with advanced **Deep Learning techniques**  
+- 💡 Passionate about solving problems that matter to students and developers  
+- 🎯 Goal: Build impactful projects that help people learn and grow  
 
--⚙️ Experienced in developing **backend-heavy** projects focused on clean architecture and scalability
-- 🔭 Currently working on **ML-powered/Deep learning applications** and **interactive web platforms**
-- 🌱 Learning and experimenting with advanced **Deep Learning techniques**
-- 💡 Passionate about solving problems that matter to students and developers
-- 🎯 Goal: Build impactful projects that help people learn and grow
 ---
+
 ### 🤖 My Passion for Computer Vision
 
-I have a deep fascination with **Object Detection** and **Image Classification** models. There's something incredibly exciting about teaching machines to "see" and interpret the visual world! Whether it's detecting objects in real-time or classifying images with precision, I love diving into computer vision projects. In my experience, **TensorFlow** and **OpenCV** are the ultimate powerhouses for machine learning and computer vision tasks. TensorFlow's flexibility in building neural networks combined with OpenCV's robust image processing capabilities make them the perfect duo for creating intelligent visual systems. From building custom object detectors to fine-tuning image classifiers, these tools have been my go-to for bringing AI vision to life!
+I have a deep fascination with **Object Detection** and **Image Classification** models.  
+There's something incredibly exciting about teaching machines to "see" and interpret the visual world!  
+
+Whether it's detecting objects in real-time or classifying images with precision, I love diving into computer vision projects.  
+In my experience, **TensorFlow** and **OpenCV** are the ultimate powerhouses for machine learning and computer vision tasks.  
+
+TensorFlow's flexibility in building neural networks combined with OpenCV's robust image processing capabilities make them the perfect duo for creating intelligent visual systems.  
+From building custom object detectors to fine-tuning image classifiers, these tools have been my go-to for bringing AI vision to life!
 
 ---
 
