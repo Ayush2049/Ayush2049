@@ -1,5 +1,4 @@
 # Hi there, I'm Ayush Sharma! 👋
-# Hi there, I'm Ayush Sharma! 👋
 
 <div align="center">
   
